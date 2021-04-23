@@ -1,0 +1,67 @@
+- name: "Codemotion"
+  img: codemotion.svg
+  url: http://www.codemotionworld.com/
+
+- name: "Apogeo Editore: libri, ebook, news dal mondo dell'informatica e delle nuove tecnologie"
+  img: apogeo.svg
+  url: http://www.apogeonline.com/
+
+- name: "Frontenders Ticino"
+  img: frontenders-ticino.svg
+  url: http://www.frontenders.ch/
+  tags: [ frontend ]
+
+- name: "Programmers in Padua"
+  img: programmers-in-padua.svg
+  url: http://www.programmersinpadua.it/
+
+- name: "WEBdeBS"
+  img: webdebs.svg
+  url: http://webdebs.org/
+
+- name: FEVR
+  img: fevr.svg
+  url: http://www.fevr.it/
+  tags: [ frontend ]
+
+- name: Milano Front End Meetup
+  img: mfm.svg
+  url: https://milanofrontend.it/
+  tags: [ frontend ]
+  
+- name: Speck & Tech
+  img: speck-tech.svg
+  url: https://speckand.tech/
+
+- name: Linux Professional Institute
+  img: lpi.svg
+  url: https://www.lpi.org/ 
+
+- name: dotJS
+  img: dotjs.svg
+  url: https://www.dotjs.io/
+  tags: [ js ]
+
+- name: Italian PostgreSQL User Group
+  img: itpug.svg
+  url: http://pgday.it
+
+- name: Manning
+  img: manning.svg
+  url: https://www.manning.com/
+  tags: [ nodejs ]
+
+- name: StickerMule
+  img: stickermule.svg
+  url: https://www.stickermule.com/eu/uses?utm_source=sponsorship&utm_medium=referral&utm_campaign=AproposSrl
+  tags: [ angularday, cssday, idi, kerning, jsday, phpday, reactjsday ]
+  
+- name: RubyGarage
+  img: rubygarage.svg
+  url: https://rubygarage.org/blog
+  tags: [ rubyday ]
+  
+- name: Spree
+  img: spree.svg
+  url: https://spreecommerce.org/
+  tags: [ rubyday ]  

@@ -1,0 +1,145 @@
+- name: Manning
+  img: manning.svg
+  url: https://www.manning.com/
+
+- name: "Codemotion"
+  img: codemotion.svg
+  url: http://www.codemotionworld.com/
+
+- name: "Apogeo Editore: libri, ebook, news dal mondo dell'informatica e delle nuove tecnologie"
+  img: apogeo.svg
+  url: http://www.apogeonline.com/
+
+- name: "Frontenders Ticino"
+  img: frontenders-ticino.svg
+  url: http://www.frontenders.ch/
+  tags: [ frontend ]
+
+- name: "Programmers in Padua"
+  img: programmers-in-padua.svg
+  url: http://www.programmersinpadua.it/
+
+- name: "WEBdeBS"
+  img: webdebs.svg
+  url: http://webdebs.org/
+
+- name: FEVR
+  img: fevr.svg
+  url: http://www.fevr.it/
+  tags: [ frontend ]
+
+- name: Milano Front End Meetup
+  img: mfm.svg
+  url: https://milanofrontend.it/
+  tags: [ frontend ]
+
+- name: Speck & Tech
+  img: speck-tech.svg
+  url: https://speckand.tech/
+
+- name: Linux Professional Institute
+  img: lpi.svg
+  url: https://www.lpi.org/
+
+- name: dotJS
+  img: dotjs.svg
+  url: https://www.dotjs.io/
+  tags: [ js ]
+
+- name: Italian PostgreSQL User Group
+  img: itpug.svg
+  url: http://pgday.it
+
+- name: PHP Serbia
+  img: php-srbija.svg
+  url: https://2020.phpsrbija.rs/
+  tags: [ phpday ]
+
+- name: Syndicode
+  img: syndicode.svg
+  url: https://syndicode.com/
+  tags: [ rubyday ]
+
+- name: Solidus
+  img: solidus.svg
+  url: https://solidus.io/
+  tags: [ rubyday ]
+
+- name: React Day Bangalore
+  img: reactday-bangalore.svg
+  url: https://reactday.in
+  tags: [ js ]
+
+- name: Warsaw RUG
+  img: warsawRUG.svg
+  url: https://twitter.com/wrugeu
+  tags: [ rubyday ]
+
+- name: Rzeszow RUG
+  img: rrug.svg
+  url: http://rrug.pl/
+  tags: [ rubyday ]
+
+- name: GDG Torino
+  img: gdgto.png
+  url: https://gdgtorino.it/
+  tags: [ cssday ]
+
+- name: Angular Roma
+  img: angular-roma.svg
+  url: https://twitter.com/angularrome
+  tags: [ cssday ]
+
+- name: The Communities Bay
+  img: communities-bay.svg
+  url: https://thecmmbay.com/
+  tags: [ cssdaym, idi, containerday, reactjsday, angularday, sfday, laravelday ]
+
+- name: devRomagna
+  img: devromagna.svg
+  url: https://devromagna.org/
+  tags: [ cssday ]
+
+- name: RubyConfBY
+  img: rubyconfby.svg
+  url: https://rubyconference.by/
+  tags: [ rubyday ]
+
+- name: Frontend Love
+  img: frontend-love.svg
+  url: https://www.frontenddeveloperlove.com/
+  tags: [ angularday ]
+
+- name: ngVikngs
+  img: ng-vikings.svg
+  url: https://www.ngvikings.org/
+  tags: [ jsday, angularday ]
+
+- name: Gamedev.js Weekly
+  img: gamedevjs-weekly.svg
+  url: https://gamedevjsweekly.com/
+  tags: [ js ]
+
+- name: GDG Trento
+  img: gdg-trento.svg
+  url: https://gdgtrento.it/
+
+- name: React Summit
+  img: react-summit.svg
+  url: https://reactsummit.com
+  tags: [ js, phpday ]
+
+- name: JSNation
+  img: js-nation.svg
+  url: https://jsnation.com
+  tags: [ js, phpday ]
+
+- name: fwdays
+  img: fwdays.svg
+  url: https://fwdays.com/
+  tags: [ jsday, vueday, idi ]
+
+- name: TechEvents.online
+  img: techevents-online.svg
+  url: https://www.techevents.online/
+  tags: [ nodejsday, idi, containerday, reactjsday, angularday, sfday, laravelday ]

@@ -1,0 +1,12 @@
+markdown: kramdown
+highlighter: rouge
+extensions: [smart]
+exclude:
+  - "vendor"
+  - "Gemfile*"
+  - "docker-compose.yml"
+  - "README.md"
+  - "*.sh"
+encoding: utf-8
+
+helper_baseurl: https://partners.grusp.org

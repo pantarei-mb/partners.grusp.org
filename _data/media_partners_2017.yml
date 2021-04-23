@@ -1,0 +1,69 @@
+#- name: "Pragma Conference"
+#  img: pragma-conf-2016.png
+#  url: http://pragmaconference.com/
+
+- name: "Codemotion"
+  img: codemotion.svg
+  url: http://www.codemotionworld.com/
+
+#- name: Faventia Sales
+#  img: faventia.png
+#  url: http://www.faventiasales.it/
+#  tag: faenza
+
+- name: "Apogeo Editore: libri, ebook, news dal mondo dell'informatica e delle nuove tecnologie"
+  img: apogeo.svg
+  url: http://www.apogeonline.com/
+
+#- name: "DXpertise"
+#  img: dxpertise.svg
+#  url: http://www.dxpertise.com/
+
+- name: "CloudConf"
+  img: cloudconf.svg
+  url: http://www.cloudconf.it/
+
+- name: "Tom's Hardware"
+  img: toms-hardware.svg
+  url: http://www.tomshw.it/
+
+- name: "Frontenders Ticino"
+  img: frontenders-ticino.svg
+  url: http://www.frontenders.ch/
+  tags: [ frontend ]
+
+- name: "Programmers in Padua"
+  img: programmers-in-padua.svg
+  url: http://www.programmersinpadua.it/
+
+- name: "WEBdeBS"
+  img: webdebs.svg
+  url: http://webdebs.org/
+
+- name: "Web Developer Italiani"
+  img: webdeveloperitaliani.svg
+  url: https://www.facebook.com/groups/webdeveloperitaliani/
+
+- name: Faventia Sales
+  img: faventia.png
+  url: http://www.faventiasales.it/
+  tags: [ faenza ]
+
+- name: FEVR
+  img: fevr.svg
+  url: http://www.fevr.it/
+  tags: [ frontend ]
+
+- name: Milano Front End Meetup
+  img: mfm.svg
+  url: https://milanofrontend.it/
+  tags: [ frontend ]
+
+- name: dotJS
+  img: dotjs.svg
+  url: https://www.dotjs.io/
+  tags: [ js ]
+
+- name: Italian PostgreSQL User Group
+  img: itpug.svg
+  url: http://pgday.it

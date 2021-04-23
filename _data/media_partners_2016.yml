@@ -1,0 +1,29 @@
+- name: "Pragma Conference"
+  img: pragma-conf-2016.png
+  url: http://pragmaconference.com/
+
+- name: Codemotion
+  img: codemotion.png
+  url: http://www.codemotionworld.com/
+
+- name: Faventia Sales
+  img: faventia.png
+  url: http://www.faventiasales.it/
+  tag: faenza
+
+- name: "Apogeo Editore: libri, ebook, news dal mondo dell'informatica e delle nuove tecnologie"
+  img: apogeo.svg
+  url: http://www.apogeonline.com/
+
+- name: "DXpertise"
+  img: dxpertise.svg
+  url: http://www.dxpertise.com/
+
+- name: "CloudConf"
+  img: cloudconf.svg
+  url: http://www.cloudconf.it/
+
+- name: "Tom's Hardware"
+  img: toms-hardware.svg
+  url: http://www.tomshw.it/
+
