@@ -59,6 +59,11 @@ media:
       url: https://accessibilitydays.it/
       tags: [ phpday, jsday ]
       
+    - name: CTO Mastermind
+      img: ctomastermind.png
+      url: https://www.ctomastermind.it
+      tags: [ phpday, idi ]
+      
 community:
     - name: GDG Trento
       img: gdg-trento.svg
