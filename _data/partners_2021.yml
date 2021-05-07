@@ -64,6 +64,11 @@ media:
       url: https://www.ctomastermind.it
       tags: [ phpday, idi ]
       
+    - name: Develer
+      img: develer.svg
+      url: https://www.develer.com
+      tags: [ phpday, idi, jsday, containerday, angularday ]
+      
 community:
     - name: GDG Trento
       img: gdg-trento.svg
