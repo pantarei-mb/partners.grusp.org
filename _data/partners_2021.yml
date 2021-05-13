@@ -116,7 +116,7 @@ community:
       tags: [ cssday, phpday, idi, jsday, containerday, angularday ]
 
     - name: GDG Bari
-      img: gdgberi.png
+      img: gdgbari.png
       url: https://gdg.community.dev/gdg-bari/
       tags: [ idi, containerday, angularday ]
     
