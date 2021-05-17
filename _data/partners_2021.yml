@@ -393,7 +393,7 @@ community:
     - name: Pug Romagna
       img: pugromagna.png
       url: https://www.meetup.com/it-IT/PUG-Romagna-PHP-User-Group-Romagnolo/
-      tags: [ phpday ]
+      tags: [ phpday, idi, jsday, containerday, angularday ]
       
     - name: PUG Sondrio
       img: pugsondrio.png
