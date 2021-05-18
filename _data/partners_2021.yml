@@ -4,11 +4,6 @@ media:
       url: https://www.techevents.online/
       tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
 
-    - name: Inside Dev
-      img: insidedev.png
-      url: https://inside.com/dev
-      tags: [ rubyday, vueday, phpday, idi, jsday, angularday ]
-
     - name: Manning Publications
       img: manning.png
       url: https://www.manning.com
