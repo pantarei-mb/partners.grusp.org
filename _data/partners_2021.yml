@@ -245,14 +245,9 @@ community:
       url: http://www.fevr.it
       tags: [ cssday, vueday, phpday, jsday, containerday, angularday ]   
 
-    - name: Torino DevOps Meetup Group
-      img: devopstorino.png
-      url: https://www.meetup.com/Torino-DevOps-Meetup-Group-Culture-Processes-and-Tools/
-      tags: [ idi, containerday ]  
-
     - name: Women Techmakers Italia
       img: wtmitalia.png
-      url: https://www.facebook.com/womentechmakersit
+      url: https://www.facebook.com/WTMItalia
       tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
       
     - name: Gitbar
