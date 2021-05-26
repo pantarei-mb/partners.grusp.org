@@ -410,3 +410,8 @@ community:
       url: https://www.facebook.com/frontendhub
       tags: [ vueday, jsday, angularday ]
       
+    - name: PHP Peru
+      img: phpdayperu.png
+      url: https://www.meetup.com/es/Meetup-de-PHP-en-Lima
+      tags: [ phpday, jsday ]
+      
