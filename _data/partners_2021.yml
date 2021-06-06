@@ -231,7 +231,7 @@ community:
       tags: [ angularday ]  
 
     - name: Vue.js Italia
-      img: vuejsitalia.svg
+      img: vuejsitalia.png
       url: https://t.me/vue_ita
       tags: [ cssday, vueday, jsday, angularday ]
 
@@ -415,3 +415,7 @@ community:
       url: https://www.meetup.com/es/Meetup-de-PHP-en-Lima
       tags: [ phpday, jsday ]
       
+    - name: Dianacodes
+      img: dianacodes.svg
+      url: https://www.dianabernabei.com/
+      tags: [ idi, jsday, containerday, angularday ]     
