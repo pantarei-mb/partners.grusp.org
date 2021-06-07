@@ -101,7 +101,7 @@ community:
       tags: [ cssday, vueday, phpday, idi, jsday, containerday, angularday ]
 
     - name: Bologna JS
-      img: bolognajs.png
+      img: bolognajs.svg
       url: http://www.bolognajs.com/
       tags: [ jsday ]
 
