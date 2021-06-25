@@ -419,3 +419,8 @@ community:
       img: dianacodes.svg
       url: https://www.dianabernabei.com/
       tags: [ idi, jsday, containerday, angularday ]     
+      
+    - name: Mediadev
+      img: mediadev.png
+      url: https://discord.gg/mediadevs
+      tags: [ jsday ]   
