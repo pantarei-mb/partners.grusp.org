@@ -423,4 +423,9 @@ community:
     - name: Mediadev
       img: mediadev.png
       url: https://discord.gg/mediadevs
-      tags: [ jsday ]   
+      tags: [ jsday ]  
+      
+    - name: italiancoders
+      img: italiancoders.png
+      url: www.italiancoders.it
+      tags: [ idi ] 
