@@ -46,7 +46,7 @@ media:
       
     - name: Fabio Biondi
       img: fabio-biondi.png
-      url: www.fabiobiondi.io
+      url: https://www.fabiobiondi.io
       tags: [ vueday, phpday, idi, jsday, angularday, laravelday ]
       
     - name: Accessibility Days
