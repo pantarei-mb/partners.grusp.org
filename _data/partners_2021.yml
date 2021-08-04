@@ -435,4 +435,8 @@ community:
       url: https://tech-conferences-italy.vercel.app/
       tags: [ containerday, angularday ]
       
+    - name: Schrodenger Hat
+      img: sh.png
+      url: https://www.schrodinger-hat.it/
+      tags: [ containerday, angularday ]
       
