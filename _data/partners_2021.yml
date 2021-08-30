@@ -440,3 +440,8 @@ community:
       url: https://www.schrodinger-hat.it/
       tags: [ containerday, angularday ]
       
+    - name: Smashing Members
+      img: sm.svg
+      url: https://www.smashingmagazine.com/membership/
+      tags: [ containerday, angularday ]
+      
