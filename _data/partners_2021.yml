@@ -445,3 +445,8 @@ community:
       url: https://www.smashingmagazine.com/membership/
       tags: [ containerday, angularday ]
       
+    - name: Stop Coding
+      img: stopcoding.png
+      url: https://www.meetup.com/it-IT/stopcoding/
+      tags: [ containerday ]
+      
