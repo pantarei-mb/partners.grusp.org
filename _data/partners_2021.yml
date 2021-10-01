@@ -450,3 +450,8 @@ community:
       url: https://www.meetup.com/it-IT/stopcoding/
       tags: [ containerday ]
       
+    - name: The Red Code
+      img: theredcode.png
+      url: https://www.theredcode.it
+      tags: [ containerday, angularday ]
+      
