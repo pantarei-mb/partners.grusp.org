@@ -462,6 +462,6 @@ community:
       
     - name: PLUG
       img: plug.png
-      url:https://www.pignolalug.it/
+      url: https://www.pignolalug.it/
       tags: [ idi ]
       
