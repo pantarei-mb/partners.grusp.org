@@ -460,3 +460,8 @@ community:
       url: https://www.superheroesvalley.fun/
       tags: [ containerday, angularday ]
       
+    - name: PLUG
+      img: plug.png
+      url:https://www.pignolalug.it/
+      tags: [ idi ]
+      
