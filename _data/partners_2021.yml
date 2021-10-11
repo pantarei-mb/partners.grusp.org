@@ -64,6 +64,11 @@ media:
       url: https://www.develer.com
       tags: [ phpday, idi, jsday, containerday, angularday ]
       
+    - name: PLUG
+      img: plug.png
+      url: https://www.pignolalug.it/
+      tags: [ idi, containerday, angularday ]
+      
 community:
     - name: GDG Trento
       img: gdg-trento.svg
@@ -460,8 +465,8 @@ community:
       url: https://www.superheroesvalley.fun/
       tags: [ containerday, angularday ]
       
-    - name: PLUG
-      img: plug.png
-      url: https://www.pignolalug.it/
-      tags: [ idi ]
+    - name: This is Learning
+      img: til.png
+      url: https://dev.to/this-is-learning
+      tags: [ angularday ]
       
