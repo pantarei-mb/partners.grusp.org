@@ -470,3 +470,8 @@ community:
       url: https://dev.to/this-is-learning
       tags: [ angularday ]
       
+    - name: Angular Oslo
+      img: angularoslo.png
+      url: https://www.meetup.com/AngularJS-Oslo/
+      tags: [ angularday ]
+      
