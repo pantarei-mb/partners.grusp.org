@@ -1,12 +1,52 @@
 media:
-#    - name: TechEvents.online
-#      img: techevents-online.svg
-#      url: https://www.techevents.online/
-#      tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
+    - name: PLUG
+      img: plug.png
+      url: https://www.pignolalug.it/
+      tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
 
 community:
-#    - name: GDG Trento
-#      img: gdg-trento.svg
-#      url: http://gdgtrento.it/
-#      tags: [ cssday, rubyday, vueday, phpday, idi, jsday, containerday, angularday ]
+    - name: TheRedCode
+      img: theredcode.png
+      url: https://www.theredcode.it
+      tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+      
+    - name: Superheroes Valley
+      img: superheroes.png
+      url: https://www.superheroesvalley.fun/
+      tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+      
+    - name: This is Learning
+      img: til.png
+      url: https://dev.to/this-is-learning
+      tags: [ jsday, phpday, vueday, rubyday, reactjsday, angularday ]
+      
+    - name: Angular Oslo
+      img: angularoslo.png
+      url: https://www.meetup.com/AngularJS-Oslo/
+      tags: [ jsday, angularday ]
+      
+    - name: WTM Italia
+      img: wtmitalia.png
+      url: https://twitter.com/wtmitalia
+      tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+      
+    - name: PUG Milano
+      img: pugmilano.svg
+      url: https://milano.grusp.org/
+      tags: [ phpday ]
+      
+   - name: Pug Romagna
+      img: pugromagna.png
+      url: https://www.meetup.com/it-IT/PUG-Romagna-PHP-User-Group-Romagnolo/
+      tags: [ phpday ]
+      
+   - name: Schrodinger Hat
+      img: sh.png
+      url: https://www.schrodinger-hat.it/
+      tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+      
+   - name: GDG Bari
+      img: gdgbari.png
+      url: https://gdg.community.dev/gdg-bari/
+      tags: [ idi, containerday, angularday ]
 
