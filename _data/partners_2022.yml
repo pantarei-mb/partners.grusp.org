@@ -3,6 +3,11 @@ media:
     img: plug.png
     url: https://www.pignolalug.it/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Devmy
+    img: devmy.png
+    url: https://devmy.it/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, containerday, reactjsday, angularday ]
 
 community:
   - name: TheRedCode
