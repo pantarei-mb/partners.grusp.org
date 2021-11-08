@@ -49,3 +49,13 @@ community:
     img: gdgbari.png
     url: https://gdg.community.dev/gdg-bari/
     tags: [ idi, containerday, angularday ]
+    
+  - name: GDG Campobasso
+    img: gdgcampobasso.png
+    url: https://gdg.community.dev/gdg-campobasso/
+    tags: [ cssday, jsday, phpday, vueday, containerday, reactjsday, angularday ]
+
+  - name: MUG
+    img: mug.svg
+    url: https://m-u-g.github.io/
+    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
