@@ -8,6 +8,11 @@ media:
     img: devmy.png
     url: https://devmy.it/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, containerday, reactjsday, angularday ]
+    
+  - name: Tech Conferences Italy
+    img: tci.png
+    url: https://tech-conferences-italy.vercel.app/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
 
 community:
   - name: TheRedCode
