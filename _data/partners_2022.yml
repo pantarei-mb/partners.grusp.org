@@ -69,3 +69,20 @@ community:
     img: mug.svg
     url: https://m-u-g.github.io/
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: AWS UG Catania
+    img: awscatania.png
+    url: https://www.meetup.com/it-IT/AWS-User-Group-Catania/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, containerday, reactjsday, angularday ]
+    
+  - name: BolognaJS
+    img: bolognajs.svg
+    url: https://www.meetup.com/it-IT/AWS-User-Group-Catania/
+    tags: [ cssday, jsday, vueday, reactjsday, angularday ]
+    
+  - name: Dianacodes
+    img: dianacodes.svg
+    url: https://www.dianabernabei.com/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+    
