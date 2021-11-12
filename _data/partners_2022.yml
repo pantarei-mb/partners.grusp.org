@@ -85,4 +85,14 @@ community:
     url: https://www.dianabernabei.com/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
     
+  - name: Django Girls Italia
+    img: djangogirls.png
+    url: https://www.facebook.com/djangogirlsIT/
+    tags: [ idi, cssday, jsday, vueday, containerday, reactjsday, angularday ]
+    
+  - name: Vue.js Italia
+    img: vuejsitalia.svg
+    url: https://t.me/vue_ita
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
     
