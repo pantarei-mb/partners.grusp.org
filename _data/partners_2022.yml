@@ -13,6 +13,11 @@ media:
     img: tci.png
     url: https://tech-conferences-italy.vercel.app/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Develer
+    img: develer.svg
+    url: https://www.develer.com/
+    tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
 
 community:
   - name: TheRedCode
@@ -93,6 +98,11 @@ community:
   - name: Vue.js Italia
     img: vuejsitalia.svg
     url: https://t.me/vue_ita
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: PointerPodcast
+    img: pointerpodcast.png
+    url: https://pointerpodcast.it/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
     
     
