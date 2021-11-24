@@ -105,4 +105,9 @@ community:
     url: https://pointerpodcast.it/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
     
+  - name: PUG Roma
+    img: pugroma.svg
+    url: https://roma.grusp.org/
+    tags: [ phpday ]
+    
     
