@@ -110,4 +110,44 @@ community:
     url: https://roma.grusp.org/
     tags: [ phpday ]
     
+ - name: Laravel Italia
+    img: laravelitalia.png
+    url: https://laravel-italia.it/
+    tags: [ idi, jsday, phpday, vueday, containerday, reactjsday, angularday ]
+    
+ - name: GDG Trento
+    img: gdg-trento.svg
+    url: https://gdg.community.dev/gdg-trento/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+ - name: Milano JS
+    img: milanojs.png
+    url: https://milanojs.com/
+    tags: [ cssday, jsday, vueday, reactjsday, angularday ]
+    
+ #- name: Italia JS
+   #img: 
+   #url: https://italia-js.org/
+   #tags: [ cssday, jsday, vueday, reactjsday, angularday ]
+    
+ - name: GDG Valle d'Aosta
+    img: gdgvda.png
+    url: https://gdg.community.dev/gdg-valle-daosta/
+    tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
+    
+ - name: GDG Pisa
+    img: gdgpisa.png
+    url: https://gdgpisa.it/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+ - name: GDG Torino
+    img: gdgtorino.svg
+    url: https://www.gdgtorino.it
+    tags: [ idi, cssday, jsday, rubyday, containerday, reactjsday, angularday ]
+    
+ - name: Gitbar
+    img: gitbar.png
+    url: https://www.gitbar.it
+    tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday ]
+    
     
