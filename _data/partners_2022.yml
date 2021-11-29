@@ -125,10 +125,10 @@ community:
     url: https://milanojs.com/
     tags: [ cssday, jsday, vueday, reactjsday, angularday ]
     
- #- name: Italia JS
-   #img: 
-   #url: https://italia-js.org/
-   #tags: [ cssday, jsday, vueday, reactjsday, angularday ]
+# - name: Italia JS
+#    img: 
+#    url: https://italia-js.org/
+#    tags: [ cssday, jsday, vueday, reactjsday, angularday ]
     
  - name: GDG Valle d'Aosta
     img: gdgvda.png
