@@ -150,4 +150,9 @@ community:
     url: https://www.gitbar.it
     tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday ]
     
+  - name: XPUG Bergamo
+    img: xpugbergamo.svg
+    url: https://xpugbg.it/
+    tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
+    
     
