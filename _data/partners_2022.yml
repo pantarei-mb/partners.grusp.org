@@ -155,4 +155,16 @@ community:
     url: https://xpugbg.it/
     tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
     
+  - name: Angular Roma
+    img: ngrome.svg
+    url: https://twitter.com/angularrome
+    tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
+    
+  - name: GDG Pescara
+    img: gdgpescara.svg
+    url: https://www.gdgpescara.it
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+    
+    
     
