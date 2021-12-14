@@ -164,3 +164,28 @@ community:
     img: gdgpescara.svg
     url: https://www.gdgpescara.it
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: TomorrowDevs
+    img: tomorrowdevs.png
+    url: https://www.tomorrowdevs.com
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: SheTech
+    img: shetech.png
+    url: https://shetechitaly.org/
+    tags: [ idi, cssday, jsday, phpday, reactjsday ]
+    
+  - name: Italian C++ Community
+    img: ic++.png
+    url: https://italiancpp.org
+    tags: [ idi ]
+    
+  - name: UX/UI Designer Italia
+    img: uxuidesigneritalia.svg
+    url: https://www.uxuidesigner.org/
+    tags: [ cssday, jsday, kerning, reactjsday, angularday ]
+    
+  - name: Pausa Caffè
+    img: pausacaffe.png
+    url: https://pausacaffe.live
+    tags: [ idi, phpday, vueday, reactjsday, angularday ]
