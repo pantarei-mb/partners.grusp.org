@@ -189,3 +189,13 @@ community:
     img: pausacaffe.png
     url: https://pausacaffe.live
     tags: [ idi, phpday, vueday, reactjsday, angularday ]
+    
+  - name: firenze.dev
+    img: firenzedev.svg
+    url: https://firenze.dev
+    tags: [ cssday, jsday, phpday, containerday, reactjsday, angularday ]
+    
+  - name: Coding Bunker
+    img: codingbunker.png
+    url: https://www.codingbunker.it/
+    tags: [ cssday, jsday, phpday, vueday, reactjsday, angularday ]
