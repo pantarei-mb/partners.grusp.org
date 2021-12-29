@@ -18,6 +18,11 @@ media:
     img: develer.svg
     url: https://www.develer.com/
     tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
+    
+ - name: Droidcon
+    img: droidcon.svg
+    url: https://it.droidcon.com/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
 
 community:
   - name: TheRedCode
@@ -199,3 +204,28 @@ community:
     img: codingbunker.png
     url: https://www.codingbunker.it/
     tags: [ cssday, jsday, phpday, vueday, reactjsday, angularday ]
+    
+  - name: GDG Venezia
+    img: gdgvenezia.svg
+    url: https://gdg.community.dev/gdg-venezia/
+    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: ngVikings
+    img: ngviking.png
+    url: https://www.ngvikings.org/
+    tags: [ angularday ]
+    
+  - name: Gamedev.js
+    img: gamedevjs.png
+    url: https://gamedevjs.com/
+    tags: [ jsday, vueday, reactjsday, angularday ]
+    
+  - name: Gamedev.js Weekly
+    img: gamedevjsweekly.svg
+    url: https://gamedevjsweekly.com/
+    tags: [ jsday, vueday, reactjsday, angularday ]
+  
+  - name: js13kGames
+    img: js13kgames.svg
+    url: https://js13kgames.com
+    tags: [ jsday, vueday, reactjsday, angularday ]
