@@ -19,10 +19,15 @@ media:
     url: https://www.develer.com/
     tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
     
- - name: Droidcon
+  - name: Droidcon
     img: droidcon.svg
     url: https://it.droidcon.com/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Product Management Day
+    img: pmd.png
+    url: https://www.productmanagementday.com
+    tags: [ idi, containerday, reactjsday ]
 
 community:
   - name: TheRedCode
