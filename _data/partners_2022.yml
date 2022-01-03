@@ -229,3 +229,23 @@ community:
     img: js13kgames.svg
     url: https://js13kgames.com
     tags: [ jsday, vueday, reactjsday, angularday ]
+    
+  - name: RLadies Milan
+    img: rladiesmilan.png
+    url: https://www.meetup.com/rladies-milan/
+    tags: [ idi, cssday, phpday, containerday ]
+    
+  - name: JS Poland
+    img: jspoland.png
+    url: https://js-poland.pl/
+    tags: [ jsday, vueday, reactjsday, angularday ]
+    
+  - name: Angular Master Podcast
+    img: angularmasterpodcast.png
+    url: https://anchor.fm/angular-master
+    tags: [ angularday ]
+    
+  - name: NG Poland
+    img: ngpoland.png
+    url: https://ng-poland.pl/
+    tags: [ angularday ]
