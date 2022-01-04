@@ -28,6 +28,16 @@ media:
     img: pmd.png
     url: https://www.productmanagementday.com
     tags: [ idi, containerday, reactjsday ]
+    
+  - name: Linux Professional Institute
+    img: lpi.png
+    url: https://www.lpi.org/
+    tags: [ idi, cssday, containerday ]
+    
+  - name: Codemotion Italia
+    img: codemotion.png
+    url: https://www.codemotion.com/
+    tags: [ jsday, phpday ]
 
 community:
   - name: TheRedCode
