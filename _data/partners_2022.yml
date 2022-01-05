@@ -38,6 +38,11 @@ media:
     img: codemotion.png
     url: https://www.codemotion.com/
     tags: [ jsday, phpday ]
+    
+  - name: Manning Publications
+    img: manning.png
+    url: https://www.manning.com
+    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
 
 community:
   - name: TheRedCode
@@ -264,3 +269,8 @@ community:
     img: ngpoland.png
     url: https://ng-poland.pl/
     tags: [ angularday ]
+    
+  - name: Vue Basel
+    img: vuebasel.svg
+    url: https://www.meetup.com/Vue-Basel/
+    tags: [ jsday, vueday ]
