@@ -43,6 +43,36 @@ media:
     img: manning.png
     url: https://www.manning.com
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Workshops.DE
+    img: workshopde.svg
+    url: https://workshops.de/
+    tags: [ vueday, containerday, reactjsday, angularday ]
+    
+  - name: ReactJS.DE
+    img: reactjsde.svg
+    url: https://reactjs.de/
+    tags: [ reactjsday ]
+    
+  - name: VueJS.DE
+    img: vuejsde.svg
+    url: https://vuejs.de/
+    tags: [ vueday ]
+    
+  - name: Angular.DE
+    img: angularde.svg
+    url: https://angular.de/
+    tags: [ angularday ]
+    
+  - name: NG-DE
+    img: ngde.svg
+    url: https://ng-de.org/
+    tags: [ angularday ]
+    
+#  - name: dotVue
+#    img: dotvue.svg
+#    url: 
+#    tags: [ vueday ]
 
 community:
   - name: TheRedCode
@@ -274,3 +304,23 @@ community:
     img: vuebasel.svg
     url: https://www.meetup.com/Vue-Basel/
     tags: [ jsday, vueday ]
+    
+  - name: ReactNext
+    img: reactnext.svg
+    url: https://www.react-next.com/
+    tags: [ jsday, vueday, rubyday, reactjsday, angularday ]
+    
+  - name: Angular-IL
+    img: angularup.svg
+    url: https://www.angular-up.com/
+    tags: [ jsday, vueday, rubyday, reactjsday, angularday ]
+    
+  - name: NodeTLV
+    img: nodetlv.svg
+    url: https://www.nodetlv.com/
+    tags: [ jsday, vueday, rubyday, reactjsday, angularday ]
+    
+  - name: Angular Berlin Meetup
+    img: angularberlin.svg
+    url: https://www.meetup.com/Angular-Meetup-Berlin/
+    tags: [ angularday ]
