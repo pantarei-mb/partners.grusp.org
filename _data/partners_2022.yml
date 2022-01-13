@@ -324,3 +324,8 @@ community:
     img: angularberlin.svg
     url: https://www.meetup.com/Angular-Meetup-Berlin/
     tags: [ angularday ]
+
+  - name: DevOpsDays Geneva
+    img: devopsdaygeneva.png
+    url: https://devopsdays.org/events/2022-geneva/welcome/
+    tags: [ idi ]
