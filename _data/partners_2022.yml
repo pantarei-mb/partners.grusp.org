@@ -69,6 +69,11 @@ media:
     url: https://ng-de.org/
     tags: [ angularday ]
     
+  - name: Fabio Biondi
+    img: fabio-biondi.png
+    url: https://www.fabiobiondi.io
+    tags: [ jsday, reactjsday, angularday ]
+    
 #  - name: dotVue
 #    img: dotvue.svg
 #    url: 
@@ -329,3 +334,28 @@ community:
     img: devopsdaygeneva.png
     url: https://devopsdays.org/events/2022-geneva/welcome/
     tags: [ idi ]
+    
+  - name: GDG Cloud Torino
+    img: gdgcloudtorino.png
+    url: https://www.gdgcloudtorino.it/
+    tags: [ idi, jsday, containerday, reactjsday, angularday ]
+    
+  - name: Bologna Front End
+    img: bolognafrontend.svg
+    url: https://tinyletter.com/bolognafrontend
+    tags: [ cssday, jsday ]
+    
+  - name: Agile Community Torino
+    img: agiletorino.svg
+    url: https://www.meetup.com/it-IT/Agile-Community-Torino/ - http://agile.to.it/
+    tags: [ idi, containerday ]
+    
+  - name: Rzeszów Ruby User Group
+    img: rur.png
+    url: https://www.rrug.pl
+    tags: [ rubyday ]
+    
+  - name: React Finland
+    img: reactfinland.svg
+    url: https://react-finland.fi/
+    tags: [ reactjsday ]
