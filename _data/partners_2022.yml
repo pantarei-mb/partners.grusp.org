@@ -69,7 +69,7 @@ media:
     url: https://ng-de.org/
     tags: [ angularday ]
     
- - name: Fabio Biondi
+  - name: Fabio Biondi
     img: fabio-biondi.png
     url: https://www.fabiobiondi.io
     tags: [ jsday, reactjsday, angularday ]
@@ -354,3 +354,8 @@ community:
     img: rur.png
     url: https://www.rrug.pl
     tags: [ rubyday ]
+    
+  - name: React Finland
+    img: reactfinland.svg
+    url: https://react-finland.fi/
+    tags: [ reactjsday ]
