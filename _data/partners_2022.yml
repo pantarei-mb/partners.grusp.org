@@ -359,3 +359,18 @@ community:
     img: reactfinland.svg
     url: https://react-finland.fi/
     tags: [ reactjsday ]
+    
+  - name: Fuzzy Brains
+    img: fuzzybrains.svg
+    url: https://www.fuzzybrains.org/it/
+    tags: [ idi, cssday, jsday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Framsia
+    img: framsia.png
+    url: https://www.meetup.com/framsia/
+    tags: [ jsday ]
+    
+  - name: Frontend Hub
+    img: frontendhub.png
+    url: https://www.facebook.com/frontendhub/
+    tags: [ reactjsday, angularday ]
