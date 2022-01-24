@@ -374,3 +374,18 @@ community:
     img: frontendhub.png
     url: https://www.facebook.com/frontendhub/
     tags: [ reactjsday, angularday ]
+    
+  - name: VueJobs
+    img: vuojobs.svg
+    url: https://vuejobs.com
+    tags: [ vueday ]
+    
+  - name: 42Roma Luiss
+    img: 42romaluiss.png
+    url: https://42roma.it/
+    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: CTO Mastermind
+    img: ctomastermind.png
+    url: https://www.ctomastermind.it
+    tags: [ idi, jsday, phpday, containerday, reactjsday, angularday ]
