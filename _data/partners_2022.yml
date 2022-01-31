@@ -399,3 +399,8 @@ community:
     img: pip.svg
     url: https://www.programmersinpadua.it
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: DotNetCode
+    img: dotnetcode.png
+    url: http://dotnetcode.it
+    tags: [ idi, cssday, jsday, vueday, containerday, reactjsday, angularday ]
