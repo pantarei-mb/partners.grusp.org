@@ -399,3 +399,8 @@ community:
     img: pip.svg
     url: https://www.programmersinpadua.it
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: React India
+    img: reactindia.png
+    url: https://www.reactindia.io/
+    tags: [ jsday, reactjsday ]
