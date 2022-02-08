@@ -404,3 +404,13 @@ community:
     img: reactindia.png
     url: https://www.reactindia.io/
     tags: [ jsday, reactjsday ]
+    
+  - name: JavaScript Kingdom
+    img: jsk.png
+    url: https://javascriptkingdom.github.io
+    tags: [ cssday, jsday, vueday, reactjsday, angularday ]
+    
+  - name: Frontenders Ticino
+    img: frontendersticino.png
+    url: https://twitter.com/FrontEndersTI
+    tags: [ cssday, jsday, phpday, vueday, rubyday, reactjsday, angularday ]
