@@ -381,7 +381,7 @@ community:
     tags: [ vueday ]
     
   - name: 42Roma Luiss
-    img: 42luissroma.svg
+    img: 42romaluiss.svg
     url: https://42roma.it/
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
     
