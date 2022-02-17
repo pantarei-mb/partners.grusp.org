@@ -419,3 +419,18 @@ community:
     img: pytonit.svg
     url: https://pycon.it/
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Kubernetes and Cloud Native Milano
+    img: kubernetesmilano.png
+    url: https://community.cncf.io/kubernetes-cloud-native-milano/
+    tags: [ idi, containerday ]
+    
+  - name: JSWORLD Conference
+    img: jsworld.png
+    url: https://jsworldconference.com/
+    tags: [ jsday, vueday, reactjsday, angularday ]
+    
+  - name: VueJS Athens
+    img: vuejsathens.png
+    url: https://www.meetup.com/vuejsathens/
+    tags: [ jsday, vueday ]
