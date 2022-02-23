@@ -342,12 +342,12 @@ community:
     
   - name: Bologna Front End
     img: bolognafrontend.svg
-    url: https://tinyletter.com/bolognafrontend
+    url: https://bolognafrontend.it/
     tags: [ cssday, jsday ]
     
   - name: Agile Community Torino
     img: agiletorino.svg
-    url: https://www.meetup.com/it-IT/Agile-Community-Torino/ - http://agile.to.it/
+    url: http://agile.to.it/
     tags: [ idi, containerday ]
     
   - name: Rzeszów Ruby User Group
