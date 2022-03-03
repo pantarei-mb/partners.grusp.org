@@ -74,6 +74,11 @@ media:
     url: https://www.fabiobiondi.io
     tags: [ jsday, reactjsday, angularday ]
     
+  - name: Edgemony
+    img: egdemony.JPG
+    url: https://www.edgemony.com
+    tags: [ jsday, reactjsday, angularday ]
+    
 #  - name: dotVue
 #    img: dotvue.svg
 #    url: 
