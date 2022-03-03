@@ -434,3 +434,13 @@ community:
     img: vuejsathens.png
     url: https://www.meetup.com/vuejsathens/
     tags: [ jsday, vueday ]
+    
+  - name: PHP Perú
+    img: phpdayperu.png
+    url: https://www.meetup.com/es/Meetup-de-PHP-en-Lima
+    tags: [ idi, cssday, jsday, phpday, vueday, containerday, reactjsday, angularday ]
+    
+  - name: Hypernova Società Cooperativa
+    img: hypernova.png
+    url: https://hypernovacoop.retedoc.net/
+    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
