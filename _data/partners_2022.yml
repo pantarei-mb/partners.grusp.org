@@ -444,3 +444,8 @@ community:
     img: hypernova.png
     url: https://hypernovacoop.retedoc.net/
     tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Edgemony
+    img: edgemony.png
+    url: https://www.edgemony.com
+    tags: [ cssday, jsday, reactjsday ]
