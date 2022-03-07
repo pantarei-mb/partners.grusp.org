@@ -449,3 +449,8 @@ community:
     img: edgemony.png
     url: https://www.edgemony.com
     tags: [ cssday, jsday, reactjsday ]
+    
+  - name: JAMstack Lagos
+    img: jmstacklagos.png
+    url: https://www.meetup.com/JAMStack-Lagos/
+    tags: [ cssday, jsday, vueday, reactjsday ]
