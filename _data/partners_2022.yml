@@ -454,3 +454,8 @@ community:
     img: jmstacklagos.png
     url: https://www.meetup.com/JAMStack-Lagos/
     tags: [ cssday, jsday, vueday, reactjsday ]
+    
+  - name: React Norway
+    img: reactnorway.svg
+    url: https://reactnorway.com/
+    tags: [ reactjsday ]
