@@ -7,7 +7,7 @@ media:
   - name: Devmy
     img: devmy.png
     url: https://devmy.it/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, containerday, reactjsday, angularday ]
     
   - name: Tech Conferences Italy
     img: tci.png
@@ -17,7 +17,7 @@ media:
   - name: Develer
     img: develer.svg
     url: https://www.develer.com/
-    tags: [ idi, cssday, jsday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, uxday, containerday, reactjsday, angularday ]
     
   - name: Droidcon
     img: droidcon.svg
@@ -88,7 +88,7 @@ community:
   - name: Superheroes Valley
     img: superheroes.png
     url: https://www.superheroesvalley.fun/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
 
   - name: This is Learning
     img: til.png
@@ -103,7 +103,7 @@ community:
   - name: WTM Italia
     img: wtmitalia.png
     url: https://twitter.com/wtmitalia
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
 
   - name: PUG Milano
     img: pugmilano.svg
@@ -118,12 +118,12 @@ community:
   - name: Schrodinger Hat
     img: sh.png
     url: https://www.schrodinger-hat.it/
-    tags: [ idi, cssday, jsday, phpday, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
 
   - name: GDG Bari
     img: gdgbari.png
     url: https://gdg.community.dev/gdg-bari/
-    tags: [ idi, containerday, angularday ]
+    tags: [ idi, containerday, uxday, angularday ]
     
   - name: GDG Campobasso
     img: gdgcampobasso.png
@@ -143,7 +143,7 @@ community:
   - name: BolognaJS
     img: bolognajs.svg
     url: https://www.meetup.com/it-IT/AWS-User-Group-Catania/
-    tags: [ cssday, jsday, vueday, reactjsday, angularday ]
+    tags: [ cssday, jsday, vueday, uxday, reactjsday, angularday ]
     
   - name: Dianacodes
     img: dianacodes.svg
@@ -243,7 +243,7 @@ community:
   - name: UX/UI Designer Italia
     img: uxuidesigneritalia.svg
     url: https://www.uxuidesigner.org/
-    tags: [ cssday, jsday, kerning, reactjsday, angularday ]
+    tags: [ cssday, jsday, uxday, reactjsday, angularday ]
     
   - name: Pausa Caffè
     img: pausacaffe.png
@@ -454,3 +454,8 @@ community:
     img: jmstacklagos.png
     url: https://www.meetup.com/JAMStack-Lagos/
     tags: [ cssday, jsday, vueday, reactjsday ]
+    
+  - name: React Norway
+    img: reactnorway.svg
+    url: https://reactnorway.com/
+    tags: [ reactjsday ]
