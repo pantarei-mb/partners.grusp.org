@@ -459,3 +459,8 @@ community:
     img: reactnorway.svg
     url: https://reactnorway.com/
     tags: [ reactjsday ]
+    
+  - name: TrevisoJS
+    img: trevisojs.png
+    url: https://treviso.js.org/
+    tags: [ jsday, vueday, reactjsday, angularday ]
