@@ -474,3 +474,9 @@ community:
     img: architecta.png
     url: https://architecta.it/
     tags: [ uxday ]
+    
+  - name: Compila Quindi Va
+    img: cqv.png
+    url: https://www.breveglieri.it/
+    tags: [ idi, jsday, uxday, vueday, containerday, reactjsday, angularday ]
+
