@@ -464,3 +464,13 @@ community:
     img: trevisojs.png
     url: https://treviso.js.org/
     tags: [ jsday, vueday, reactjsday, angularday ]
+
+  - name: TensorFlow JS
+    img: tensorflow.png
+    url: https://www.tensorflow.org/js
+    tags: [ jsday, vueday, reactjsday ]
+    
+  - name: Architecta
+    img: architecta.png
+    url: https://architecta.it/
+    tags: [ uxday ]
