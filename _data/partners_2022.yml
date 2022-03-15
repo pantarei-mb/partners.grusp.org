@@ -163,7 +163,7 @@ community:
   - name: PointerPodcast
     img: pointerpodcast.png
     url: https://pointerpodcast.it/
-    tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
+    tags: [ idi, cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
     
   - name: PUG Roma
     img: pugroma.svg
