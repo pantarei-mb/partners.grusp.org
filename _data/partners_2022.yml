@@ -479,4 +479,9 @@ community:
     img: cqv.png
     url: https://www.breveglieri.it/
     tags: [ idi, jsday, uxday, vueday, containerday, reactjsday, angularday ]
+    
+  - name: GDG Catania
+    img: gdgcatania.png
+    url: https://www.gdgcatania.org/
+    tags: [ jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angulardayy ]
 
