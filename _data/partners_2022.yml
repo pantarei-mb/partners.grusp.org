@@ -483,5 +483,15 @@ community:
   - name: GDG Catania
     img: gdgcatania.png
     url: https://www.gdgcatania.org/
-    tags: [ jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angulardayy ]
+    tags: [ jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: Sherpa Community
+    img: sherpa.svg
+    url: https://www.sherpadesign.it/
+    tags: [ cssday, jsday, uxday ]
+    
+  - name: Sistech
+    img: sistech.png
+    url: https://www.sherpadesign.it/
+    tags: [ cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
 
