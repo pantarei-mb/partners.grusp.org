@@ -494,4 +494,9 @@ community:
     img: sistech.png
     url: https://www.sherpadesign.it/
     tags: [ cssday, jsday, phpday, uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: ReactJs Milano
+    img: reactjsmilano.svg
+    url: https://www.meetup.com/React-JS-Milano/
+    tags: [ reactjsday ]
 
