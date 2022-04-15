@@ -499,4 +499,48 @@ community:
     img: reactjsmilano.svg
     url: https://www.meetup.com/React-JS-Milano/
     tags: [ reactjsday ]
+    
+  - name: PUG Firenze
+    img: pugfirenze.png
+    url: https://www.facebook.com/PUGFirenze
+    tags: [ phpday ]
+    
+  - name: PUG Foggia
+    img: pugfoggia.png
+    url: https://foggia.grusp.org/
+    tags: [ phpday ]
+    
+  - name: PUG MoRe
+    img: pugmore.png
+    url: https://www.meetup.com/it-IT/pugmore/
+    tags: [ phpday ]
+      
+  - name: PUG Palermo
+    img: pugpalermo.png
+    url: https://www.grusp.org/it/pug.html
+    tags: [ phpday ]
+      
+  - name: PUG Sondrio
+    img: pugsondrio.png
+    url: https://www.meetup.com/it-IT/pugSondrio-PHP-User-Group-Sondrio/
+    tags: [ phpday ]
+      
+  - name: PUG Seregno
+    img: pugseregno.png
+    url: https://www.meetup.com/it-IT/PUG-PHP-Seregno/
+    tags: [ phpday ]
+    
+  - name: PUG Catania
+    img: pugcatania.png
+    url: https://www.meetup.com/it-IT/pugCatania-PHP-User-Group-Catania/
+    tags: [ phpday ]
+    
+  - name: PUG Torino
+    img: pugtorino.png
+    url: http://torino.grusp.org/
+    tags: [ phpday ]
 
+  - name: PUG Rovigo
+    img: pugrovigo.png
+    url: https://rovigo.grusp.org/
+    tags: [ phpday ]
