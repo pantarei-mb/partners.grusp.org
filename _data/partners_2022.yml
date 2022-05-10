@@ -549,3 +549,13 @@ community:
     img: zgphp.svg
     url: https://zgphp.org/
     tags: [ phpday, containerday ]
+    
+  - name: Pensieri in codice
+    img: pensieriincodice.png
+    url: https://pensieriincodice.it
+    tags: [ phpday ]
+    
+  - name: Angular Zurich
+    img: angularzurich.svg
+    url: https://angularzurich.dev/
+    tags: [ angularday ]
