@@ -559,3 +559,8 @@ community:
     img: angularzurich.svg
     url: https://angularzurich.dev/
     tags: [ angularday ]
+    
+  - name: Bulgaria PHP User Group
+    img: bulgariapug.png
+    url: https://www.facebook.com/groups/375003652632424
+    tags: [ phpday ]
