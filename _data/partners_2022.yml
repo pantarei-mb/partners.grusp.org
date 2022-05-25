@@ -20,7 +20,7 @@ media:
     tags: [ idi, cssday, jsday, uxday, containerday, reactjsday, angularday ]
     
   - name: Droidcon
-    img: droidcon.svg
+    img: droidcon.png
     url: https://it.droidcon.com/
     tags: [ idi, cssday, jsday, phpday, kerning, vueday, rubyday, containerday, reactjsday, angularday ]
     
