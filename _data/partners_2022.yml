@@ -589,3 +589,13 @@ community:
     img: nocodeheroes.png
     url: https://nocodeheroes.it/
     tags: [ uxday, vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: The Currencies
+    img: thecurrencies.png
+    url: https://linktr.ee/thecurrencies
+    tags: [ containerday ]
+    
+  - name: Ladies That UX Milano
+    img: ladiesthatuxmilano.png
+    url: https://ladiesthatux.com
+    tags: [ uxday ]
