@@ -599,3 +599,8 @@ community:
     img: ladiesthatuxmilano.png
     url: https://ladiesthatux.com
     tags: [ uxday ]
+    
+  - name: Torino DevOps Meetup Group
+    img: devopstorino.png
+    url: https://www.meetup.com/Torino-DevOps-Meetup-Group-Culture-Processes-and-Tools/
+    tags: [ containerday ]
