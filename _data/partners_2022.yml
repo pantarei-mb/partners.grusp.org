@@ -604,3 +604,13 @@ community:
     img: devopstorino.png
     url: https://www.meetup.com/Torino-DevOps-Meetup-Group-Culture-Processes-and-Tools/
     tags: [ containerday ]
+    
+  - name: React Brussels
+    img: reactbrussels.png
+    url: https://www.react.brussels/
+    tags: [ reactjsday ]
+    
+  - name: BeJsCommunity
+    img: bejs.png
+    url: https://www.bejs.io/
+    tags: [ reactjsday ]
