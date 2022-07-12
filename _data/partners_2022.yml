@@ -614,3 +614,8 @@ community:
     img: bejs.png
     url: https://www.bejs.io/
     tags: [ reactjsday ]
+    
+  - name: GoLang Roma
+    img: golangroma.png
+    url: https://www.golangroma.it/
+    tags: [ containerday ]
