@@ -619,3 +619,13 @@ community:
     img: golangroma.png
     url: https://www.golangroma.it/
     tags: [ containerday ]
+    
+  - name: Reactiflux
+    img: reactiflux.svg
+    url: https://reactiflux.com/
+    tags: [ reactjsday ]
+    
+  - name: This Dot Labs
+    img: thisdotlabs.png
+    url: https://thisdot.co/
+    tags: [ angularday ]
