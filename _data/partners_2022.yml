@@ -253,7 +253,7 @@ community:
   - name: Pausa Caffè
     img: pausacaffe.png
     url: https://pausacaffe.live
-    tags: [ idi, phpday, vueday, uxday, reactjsday, angularday ]
+    tags: [ idi, phpday, vueday, uxday, reactjsday, angularday, laravelday ]
     
   - name: firenze.dev
     img: firenzedev.svg
