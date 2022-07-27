@@ -629,3 +629,8 @@ community:
     img: thisdotlabs.png
     url: https://thisdot.co/
     tags: [ angularday ]
+    
+  - name: Krazydev
+    img: krazydev.svg
+    url: https://krazydev.it
+    tags: [ vueday, rubyday, containerday, reactjsday, angularday ]
