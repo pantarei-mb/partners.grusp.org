@@ -634,3 +634,8 @@ community:
     img: krazydev.svg
     url: https://krazydev.it
     tags: [ vueday, rubyday, containerday, reactjsday, angularday ]
+    
+  - name: DevRel Sudafrica
+    img: devrelsudafrica.png
+    url: https://devrelcomafrica.notion.site/DevRel-Community-Africa-7da776c74077430896a6d37b85fd1f32
+    tags: [ vueday, containerday, reactjsday ]
