@@ -639,3 +639,13 @@ community:
     img: devrelsudafrica.png
     url: https://devrelcomafrica.notion.site/DevRel-Community-Africa-7da776c74077430896a6d37b85fd1f32
     tags: [ vueday, containerday, reactjsday ]
+    
+  - name: Vue.js Israel
+    img: vuejsisrael.png
+    url: https://www.vuejsisrael.com/
+    tags: [ vueday ]
+    
+  - name: Talent Garden
+    img: tag.png
+    url: https://talentgarden.org/
+    tags: [ vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
