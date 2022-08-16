@@ -79,6 +79,16 @@ media:
     url: https://www.presenta.cc
     tags: [ uxday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
+  - name: Kube Events
+    img: kubeevents.png
+    url: https://kube.events/
+    tags: [ containerday ]
+    
+  - name: Kube Careers
+    img: kubecareers.png
+    url: https://kube.careers/
+    tags: [ containerday ]
+    
 #  - name: dotVue
 #    img: dotvue.svg
 #    url: 
