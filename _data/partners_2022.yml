@@ -80,7 +80,7 @@ media:
     tags: [ uxday, vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
     
   - name: Kube Events
-    img: kubeevents.png
+    img: kubevents.png
     url: https://kube.events/
     tags: [ containerday ]
     
@@ -88,6 +88,11 @@ media:
     img: kubecareers.png
     url: https://kube.careers/
     tags: [ containerday ]
+    
+  - name: Vue.js Forge
+    img: vuejsforge.png
+    url: https://vuejsforge.com/
+    tags: [ vueday ]
     
 #  - name: dotVue
 #    img: dotvue.svg
@@ -659,3 +664,8 @@ community:
     img: tag.png
     url: https://talentgarden.org/
     tags: [ vueday, rubyday, containerday, reactjsday, angularday, laravelday ]
+    
+  - name: GDG Verona
+    img: gdgverona.png
+    url: https://www.facebook.com/gdgverona
+    tags: [ vueday, reactjsday, angularday, laravelday ]
