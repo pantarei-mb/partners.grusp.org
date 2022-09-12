@@ -669,3 +669,18 @@ community:
     img: gdgverona.png
     url: https://www.facebook.com/gdgverona
     tags: [ vueday, reactjsday, angularday, laravelday ]
+    
+  - name: DevelopersLife
+    img: developerslife.png
+    url: https://developerslife.dev/
+    tags: [ vueday, reactjsday, angularday, containerday ]
+    
+  - name: Angular Nights 
+    img: angularnights.png
+    url: https://www.meetup.com/Angular-Nights/
+    tags: [ vueday, reactjsday, angularday ]
+    
+  - name: ngGirls 
+    img: nggirls.png
+    url: https://www.ng-girls.org/
+    tags: [ vueday, reactjsday, angularday ]
