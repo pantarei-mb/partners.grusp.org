@@ -684,3 +684,8 @@ community:
     img: nggirls.png
     url: https://www.ng-girls.org/
     tags: [ vueday, reactjsday, angularday ]
+    
+  - name: #StopCoding 
+    img: stopcoding.png
+    url: https://www.meetup.com/it-IT/stopcoding/events/ 
+    tags: [ incontrodevops, reactjsday, containerday ]
