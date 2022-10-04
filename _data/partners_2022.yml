@@ -699,3 +699,18 @@ community:
     img: laravelitaliatelegram.png
     url: https://t.me/laravel_ita
     tags: [ laravelday ]
+    
+  - name: Aulab
+    img: aulab.png
+    url: https://www.aulab.it
+    tags: [ angularday, containerday, vueday, ractjsday, rubyday, laravelday ]
+    
+  - name: LemonSaltStudio
+    img: lemonsaltstudio.png
+    url: https://www.lemonsalt.studio
+    tags: [ angularday, containerday, vueday, ractjsday, rubyday, laravelday ]
+    
+  - name: GDG Cloud Milano
+    img: gdgcloudmilano.png
+    url: https://www.meetup.com/it-IT/gdg-cloud-milano/
+    tags: [ containerday ]
