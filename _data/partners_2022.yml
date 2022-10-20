@@ -94,6 +94,11 @@ media:
     url: https://vuejsforge.com/
     tags: [ vueday ]
     
+  - name: Nova42
+    img: nova42.png
+    url: https://www.nova42.it/
+    tags: [ reactjsday ]
+    
 #  - name: dotVue
 #    img: dotvue.svg
 #    url: 
