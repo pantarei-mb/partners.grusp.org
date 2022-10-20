@@ -99,6 +99,11 @@ media:
     url: https://www.nova42.it/
     tags: [ reactjsday ]
     
+  - name: HTML.IT
+    img: htmlit.png
+    url: https://www.html.it
+    tags: [ laravelday ]
+    
 #  - name: dotVue
 #    img: dotvue.svg
 #    url: 
