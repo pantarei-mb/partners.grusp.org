@@ -724,3 +724,8 @@ community:
     img: gdgcloudmilano.png
     url: https://www.meetup.com/it-IT/gdg-cloud-milano/
     tags: [ containerday ]
+    
+  - name: Il Salotto dei Programmatori
+    img: salottodeiprogrammatori.png
+    url: https://instagram.com/salottoprogrammatori
+    tags: [ vueday, containerday, reactjsday, laravelday ]
